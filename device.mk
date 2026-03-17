@@ -377,8 +377,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     NcmTetheringOverlay
 
-<<<<<<< HEAD
-=======
 # Parts
 include packages/apps/XiaomiParts/parts.mk
 TARGET_USE_CLEARSPEAKER := true
@@ -386,7 +384,6 @@ TARGET_USE_SATURATIONSLIDER := true
 TARGET_USE_DCDIMMING := true
 TARGET_USE_KPROFILES := true
 
->>>>>>> f4633bb (peridot: Build External Parts App)
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
